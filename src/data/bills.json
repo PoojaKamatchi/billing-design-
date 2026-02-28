@@ -1,0 +1,5 @@
+[
+  { "id": 1, "supplierId": 1, "billNo": "B101", "amount": 4000 },
+  { "id": 2, "supplierId": 1, "billNo": "B102", "amount": 2000 },
+  { "id": 3, "supplierId": 2, "billNo": "B201", "amount": 5000 }
+]
