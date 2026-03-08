@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "Materials" },
+  { "id": 2, "name": "Labour" },
+  { "id": 3, "name": "Equipment" },
+  { "id": 4, "name": "Transportation" },
+  { "id": 5, "name": "Miscellaneous" }
+]

@@ -1,0 +1,7 @@
+[
+ { "id": 1, "name": "MSP (Cash)" },
+ { "id": 2, "name": "MSP (Bank)" },
+ { "id": 3, "name": "CP-Cheque" },
+  { "id": 4, "name": "Online Transfers" }
+  
+]
